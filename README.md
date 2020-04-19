@@ -2,21 +2,21 @@
 
 Aplicação desenolvida para rastrear os casos de corona vírus no Brasil. Tecnologias utilizadas neste projeto: _ReactJS, styled-components, axios, chats.js_.
 
-Para visualizar o projeto 🌍, [acesse aqui](https://devbsb.com.br/covid).
-Código no GitHub, [acesse aqui](https://github.com/iaematt/covid-19-tracker).
+Para visualizar o projeto 🌍, [acesse aqui](https://alissonandradesistema.000webhostapp.com/covid-19/).
+Código no GitHub, [acesse aqui](https://github.com/alissonandrade2020/covid-19Brasil).
 
 ![](https://devbsb.com.br:5000/files/c3d09498e657c04681ea935013b0265b-covid-19-tracker.png)
 
 ## Instalações e usos
 
-Clone ou faça o download [desse repositório](https://github.com/iaematt/covid-19-tracker), acesse a pasta: _covid-19-tracker_ e faça a instalação:
+Clone ou faça o download [desse repositório](https://github.com/alissonandrade2020/covid-19Brasil), acesse a pasta: _covid-19brasil_ e faça a instalação:
 
 ```
 # Clone o repositório
-$ git clone https://github.com/iaematt/covid-19-tracker
+$ git clone https://github.com/alissonandrade2020/covid-19Brasil
 
 # Acesse a pasta
-$ cd covid-19-tracker/
+$ cd covid-19brasil/
 
 # Instale as dependencias
 $ yarn
@@ -40,7 +40,7 @@ Para dados diarios de casos: [https://pomber.github.io/covid19/timeseries.json](
 
 ## Meta
 
-[Portfólio](http://devbsb.com.br) – [E-Mail](mailto:matheusbastos@outlook.com) – [Instagram](https://instagram.com/iaematt_) – [GitHub](https://github.com/iaematt)
+[Portfólio](http://alissondeandradearaujo.000webhostapp.com/) – [E-Mail](mailto:alisson2d@outlook.com) – [Instagram](https://www.instagram.com/alissonandradercc) – [GitHub](https://github.com/alissonandrade2020)
 
 ## Licença
 
