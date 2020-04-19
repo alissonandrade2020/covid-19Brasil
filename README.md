@@ -5,7 +5,7 @@ Aplicação desenolvida para rastrear os casos de corona vírus no Brasil. Tecno
 Para visualizar o projeto 🌍, [acesse aqui](https://alissonandradesistema.000webhostapp.com/covid-19/).
 Código no GitHub, [acesse aqui](https://github.com/alissonandrade2020/covid-19Brasil).
 
-![](https://devbsb.com.br:5000/files/c3d09498e657c04681ea935013b0265b-covid-19-tracker.png)
+![](https://github.com/alissonandrade2020/covid-19Brasil/blob/master/public/corona19.png)
 
 ## Instalações e usos
 
